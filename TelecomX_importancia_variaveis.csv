@@ -1,0 +1,31 @@
+Variavel,Importancia
+customer.tenure,0.17719122028799147
+account.Charges.Total,0.14625312896308273
+account.Contract_Two year,0.10275379560715009
+account.Charges.Monthly,0.10029312645376637
+internet.InternetService_Fiber optic,0.06052744875522914
+account.PaymentMethod_Electronic check,0.0537556017691105
+account.Contract_One year,0.047351540342066956
+internet.OnlineSecurity_Yes,0.0302367298476329
+internet.TechSupport_Yes,0.028657426027640057
+internet.DeviceProtection_No internet service,0.021024241756905725
+account.PaperlessBilling_Yes,0.019927403766950923
+internet.TechSupport_No internet service,0.01606439618817431
+internet.StreamingMovies_No internet service,0.015065674354649275
+customer.Dependents_Yes,0.014899793251050595
+internet.OnlineSecurity_No internet service,0.014528142356643231
+internet.OnlineBackup_Yes,0.014217701046794729
+customer.gender_Male,0.013751535870792378
+customer.Partner_Yes,0.013056026826736938
+internet.InternetService_No,0.01266404716483029
+customer.SeniorCitizen,0.01116522705202702
+phone.MultipleLines_Yes,0.010625219545931715
+internet.DeviceProtection_Yes,0.010271771753822143
+internet.OnlineBackup_No internet service,0.010135981722775786
+internet.StreamingMovies_Yes,0.010059099472475259
+account.PaymentMethod_Credit card (automatic),0.009995182270707077
+internet.StreamingTV_Yes,0.00993508126010051
+account.PaymentMethod_Mailed check,0.009313738551089483
+internet.StreamingTV_No internet service,0.008502946119589268
+phone.MultipleLines_No phone service,0.0038943636013477685
+phone.PhoneService_Yes,0.00388240801293528
